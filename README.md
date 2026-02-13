@@ -7,11 +7,11 @@ The exercises cover basic programming structures, logic, and problem-solving.
 Os exercícios estão organizados com base nos seguintes temas:
 
 ### 🔹 Decision Structure
-if
-elif
-else
-Data Validation
-Simple and Compound Conditions
+`if`
+`elif`
+`else`
+`Data Validation`
+`Simple and Compound Conditions`
 
 ### 🔹 Match Case
 Using the match case
