@@ -2,5 +2,6 @@
 
 numero = int(input("Digite um número final para a contagem: "))
 
-for i in range(1, numero + 1):  # De 1 a 10
+for i in range(1, numero + 1):
+
     print(i)
